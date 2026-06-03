@@ -93,7 +93,7 @@ a, #closeBtn {
     .boton{
         position: relative;
         top: 45%;
-        left: 15%;
+        left: 1rem;
         padding: 1rem 2rem;
         background:none;
         color: #fff;
